@@ -24,7 +24,6 @@ function App() {
       <Testimonial/>
       <Faq/>
       <Appointment/>
-      <Footer/>
     </>
   )
 }
