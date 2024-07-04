@@ -6,7 +6,7 @@ import img5 from '../../assets/Group.png'
 import img6 from '../../assets/Vector.png'
 const Review = () => {
   return (
-    <div className="grid lg:mt-[200px] md:mt-[200px]  lg:ms-[30px] md:ms-[30px] grid-cols lg:grid-cols-4 md:grid-cols-3 gap-5 mt-[50px] mx-auto container">
+    <div className="grid bg-[#f6f6fc] p-5 rounded-lg lg:mt-[200px] md:mt-[200px]  lg:ms-[30px] md:ms-[30px] grid-cols lg:grid-cols-4 md:grid-cols-3 gap-5 mt-[50px] mx-auto container">
       <div className="lg:w-[216px] md:w-[216px] w-full h-full lg:[312px] md:h-[312px] mx-auto lg:ms-6 md:ms-6 ms-8 bg-[#fff] rounded-lg">
         {/* 1 */}
         <h1 className="ms-4 mt-7 text-[#020043] font-[600] text-[40px] text-left">90%</h1>
